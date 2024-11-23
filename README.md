@@ -1,5 +1,7 @@
 Otel Rezervasyon Veri Analizi ve İptal Oranları:
 
+Veri seti linki: /kaggle/input/hotel-booking-dataset-csv
+
 Bu proje, otel rezervasyon verileri üzerinde analiz yaparak iptal oranlarını anlamayı ve çeşitli faktörlerin iptallere etkisini incelemeyi amaçlamaktadır.
 Python kullanılarak veri işleme, görselleştirme ve temel analizler gerçekleştirilmiştir.
 
