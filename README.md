@@ -27,4 +27,6 @@ Cözüm olarak mevsimsel iptal eğilimlerine göre stratejiler geliştirmek gere
 En çok 0–100 gün arasında daha sık veri bulunuyor. Rezervasyon süresi 400 günün üzerine çıktığında hem iptal edilen hem de edilmeyen durumlarda veri sayısının azaldığı gözleniyor.
 Çıkan grafikte net bir doğrusal veya belirgin bir eğilim gözlenmiyor. Bu, önceden rezervasyon süresinin doğrudan iptal üzerinde belirgin bir etkisinin olmayabileceğini gösteriyor.
 
+Kaggle notebook: https://www.kaggle.com/code/deryaglsezer/otelrezervasyon
+
 
